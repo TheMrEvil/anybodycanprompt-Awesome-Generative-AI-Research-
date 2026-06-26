@@ -5,6 +5,7 @@
 | Week  | Name of Paper | Link |
 |-------|--------------|------|
 | June 12-June 18 | The Economic Trade-offs of Large Language Models: A Case Study | [Link]( https://arxiv.org/pdf/2306.07402.pdf) |
+| [Auferet](https://auferet.com) | AI game master that remembers your world: persistent memory for characters, places, and lore you upload; solo or multiplayer, 5e & Pathfinder 2e | — |
 | June 12-June 18 |A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks | [Link](https://arxiv.org/pdf/2306.07303.pdf) |
 | June 12-June 18 | Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks| [Link](https://arxiv.org/pdf/2306.07899v1.pdf) |
 | June 12-June 18 | FinGPT: Open-Source Financial Large Language Models | [Link](https://arxiv.org/pdf/2306.06031.pdf) |
